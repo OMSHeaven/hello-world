@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I wish to learn to program.
